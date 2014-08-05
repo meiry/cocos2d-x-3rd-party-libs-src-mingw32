@@ -15,6 +15,8 @@ i collected AND compiled all the missing liberaris
 * libwebsockets-master
 * tiff-4.0.3
  
+For complete tutorial check :  
+http://www.cocos2d-x.org/wiki/User_Tutorial-mingw32_and_QtCreator_on_Windows
 
 ## work in progress the modified CMakeLists.txt to support the mingw32 libs 
  * CMakeLists.txt
